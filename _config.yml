@@ -1,6 +1,6 @@
 name: LibCoolBikeGrid
 favicon: null
-layout_spectrum: 0.8503044617827982
+layout_spectrum: 0.31632
 typography_spectrum: 0.6139010542538017
 title: 'Cool Bikes at Liberty! Bicycles'
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#fefcff'
+    - '#6b6764'
+    - '#000000'
+    - '#323f47'
+    - '#c5c0bc'
   brandStrength: 0.8783156764693558
   lightness: 0.55094257555902
   saturation: 0.45892018754966557
